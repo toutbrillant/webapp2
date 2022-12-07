@@ -2,4 +2,4 @@
 # Please do not hard code
 # make use of variables and dynamic variables
 # author: Urbain Michodigni
-# This is front end application
+# This is a front end app
